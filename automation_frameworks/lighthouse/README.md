@@ -1,8 +1,5 @@
-# Test-Automation
-This repository is focused on creating a generic platform for integrating all the other automation frameworks
+# Lighthouse
 
-## Lighthouse
-Switch to directory automation_frameworks/lighthouse/ 
 
 Create customized metrics using lighthouse of your webapp
 

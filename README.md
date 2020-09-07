@@ -12,3 +12,6 @@ Use the following command to run the lighthouse.
 `lighthouse --config-path=custom-lighthouse-config.js http://localhost/sample.html`
 
 ### Note: use Nginx for hosting the sample.html locally.
+
+## Robot framework
+WIP
